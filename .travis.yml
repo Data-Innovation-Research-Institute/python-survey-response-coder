@@ -1,0 +1,7 @@
+language: python
+python:
+  - "3.6"
+
+# command to run tests
+script:
+  - PYTHONPATH=survey_response_coder python tests/test_survey_response_coder.py
