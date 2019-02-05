@@ -1,13 +1,13 @@
 # python-survey-response-coder
 
-![Travis (.org)](https://img.shields.io/travis/DrJeffreyMorgan/python-survey-response-coder.svg)
+![Travis (.org)](https://img.shields.io/travis/Data-Innovation-Research-Institute/python-survey-response-coder.svg)
 
 Code survey responses.
 
 ## Install
 
 ```bash
-pip install git+https://github.com/DrJeffreyMorgan/python-survey-response-coder.git
+pip install git+https://github.com/Data-Innovation-Research-Institute/python-survey-response-coder.git
 ```
 
 ## Use

@@ -10,7 +10,7 @@ setuptools.setup(
     description="Code survey responses.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/DrJeffreyMorgan/python-survey-response-coder.git",
+    url="https://github.com/Data-Innovation-Research-Institute/python-survey-response-coder.git",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
